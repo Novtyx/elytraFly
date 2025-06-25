@@ -1,0 +1,5 @@
+name: elytraFly
+version: '1.0-Beta'
+main: org.novtyx.elytraFly.ElytraFly
+api-version: '1.16'
+author: Novtyx
